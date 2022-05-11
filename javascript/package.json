@@ -1,0 +1,9 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "problem solving in javascript",
+  "main": "main.js",
+  "repository": "https://github.com/MuhammadMinhaj/problem-solving",
+  "author": "Muhammad Minhaj",
+  "license": "MIT"
+}
